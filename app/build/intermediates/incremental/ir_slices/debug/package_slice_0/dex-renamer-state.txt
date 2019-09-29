@@ -1,0 +1,4 @@
+#Sun Sep 29 17:30:08 CDT 2019
+base.0=C\:\\Users\\Mario\\Desktop\\ttt-une\\tic-tac-toe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

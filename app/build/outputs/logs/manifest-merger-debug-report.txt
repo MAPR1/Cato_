@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\0543d9bd841999e3f2553db0c0dc7bfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1dbf70bd5380d89ecf5f082f5426400b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\ed5e2dcd3cbda68176d387a665febeed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f4bc6c86afe421f5f536191dcadaae75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\575520e8807b37e2a3aff9ffed3ff272\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6f13ce95f4c4f292cf051bfff2b43f1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\c0dcce34dd440aa13e180d8fe0e03e79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\5b87e343a4e13dbf22c0546a83941db4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15a7fe19427f1b72b8b733b28ca7f236\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\7cb9aa9386dfbadebdd21ab12908366f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\dc42f7e03dab367f36fe173de959aa70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1275c5eed5a77796de7e9b0144899b3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\473b3062a94378a8b4dd68b8b1cb117a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\e6d32233235a1fabf4dd4ca92a1a2aba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1f616ec437c82a82379746503dc527b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\8220c1af02d5ab9c02ee75ae2c635e7a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15319d6044af208748bfe2ff505cd464\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\76ed114170991ed2671a9dda96e206c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\3b12b60b3fcc346cf54e6f702e682fba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f10a6d9f81aa8cc3a98a15df6a686c80\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\9ba3cf0ac928077df1bb2d3b0c87d021\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\347b30aff00d59d18c78674a05d6e57b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\bc25c87ae3d8d77a49108d27fe464a3c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\cca087b20769d6003e3333e253fa26d7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\36bb8a7694e9a5d79cf6e5093440fd7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\08fc049a75e49f102c8fee98ddd0efa4\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:3:11-37
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1dbf70bd5380d89ecf5f082f5426400b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1dbf70bd5380d89ecf5f082f5426400b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\8220c1af02d5ab9c02ee75ae2c635e7a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\8220c1af02d5ab9c02ee75ae2c635e7a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:10:13-39
+	android:label
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:8:13-45
+	android:roundIcon
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:9:13-58
+	android:icon
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:7:13-47
+	android:allowBackup
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:6:13-39
+	android:theme
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.gato.MainActivity
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\0543d9bd841999e3f2553db0c0dc7bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\0543d9bd841999e3f2553db0c0dc7bfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1dbf70bd5380d89ecf5f082f5426400b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1dbf70bd5380d89ecf5f082f5426400b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\ed5e2dcd3cbda68176d387a665febeed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\ed5e2dcd3cbda68176d387a665febeed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f4bc6c86afe421f5f536191dcadaae75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f4bc6c86afe421f5f536191dcadaae75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\575520e8807b37e2a3aff9ffed3ff272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\575520e8807b37e2a3aff9ffed3ff272\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6f13ce95f4c4f292cf051bfff2b43f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6f13ce95f4c4f292cf051bfff2b43f1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\c0dcce34dd440aa13e180d8fe0e03e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\c0dcce34dd440aa13e180d8fe0e03e79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\5b87e343a4e13dbf22c0546a83941db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\5b87e343a4e13dbf22c0546a83941db4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15a7fe19427f1b72b8b733b28ca7f236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15a7fe19427f1b72b8b733b28ca7f236\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\7cb9aa9386dfbadebdd21ab12908366f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\7cb9aa9386dfbadebdd21ab12908366f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\dc42f7e03dab367f36fe173de959aa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\dc42f7e03dab367f36fe173de959aa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1275c5eed5a77796de7e9b0144899b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1275c5eed5a77796de7e9b0144899b3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\473b3062a94378a8b4dd68b8b1cb117a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\473b3062a94378a8b4dd68b8b1cb117a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\e6d32233235a1fabf4dd4ca92a1a2aba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\e6d32233235a1fabf4dd4ca92a1a2aba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1f616ec437c82a82379746503dc527b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\1f616ec437c82a82379746503dc527b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\6173c93ffa30fef14dfa4928f8861041\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\8220c1af02d5ab9c02ee75ae2c635e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\8220c1af02d5ab9c02ee75ae2c635e7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15319d6044af208748bfe2ff505cd464\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\15319d6044af208748bfe2ff505cd464\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\76ed114170991ed2671a9dda96e206c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\76ed114170991ed2671a9dda96e206c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\3b12b60b3fcc346cf54e6f702e682fba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\3b12b60b3fcc346cf54e6f702e682fba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f10a6d9f81aa8cc3a98a15df6a686c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\f10a6d9f81aa8cc3a98a15df6a686c80\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\9ba3cf0ac928077df1bb2d3b0c87d021\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\9ba3cf0ac928077df1bb2d3b0c87d021\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\347b30aff00d59d18c78674a05d6e57b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\347b30aff00d59d18c78674a05d6e57b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\bc25c87ae3d8d77a49108d27fe464a3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\bc25c87ae3d8d77a49108d27fe464a3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\cca087b20769d6003e3333e253fa26d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\cca087b20769d6003e3333e253fa26d7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\36bb8a7694e9a5d79cf6e5093440fd7d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\36bb8a7694e9a5d79cf6e5093440fd7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\08fc049a75e49f102c8fee98ddd0efa4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Mario\.gradle\caches\transforms-2\files-2.1\08fc049a75e49f102c8fee98ddd0efa4\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mario\Desktop\ttt-une\tic-tac-toe\app\src\main\AndroidManifest.xml
